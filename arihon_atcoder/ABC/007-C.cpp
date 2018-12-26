@@ -1,3 +1,4 @@
+//AC time : 1ms, memory : 256KB
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -6,6 +7,8 @@
 using namespace std;
 #define rep(i, s, n) for(int i = s;i<n;i++)
 
+typedef pair<int, int> P;
+const int INF = 30000;
 int mx[4] = {1, 0, -1, 0};
 int my[4] = {0, 1, 0, -1};
 
@@ -21,43 +24,33 @@ int main(void) {
     sy -= 1;
     gx -= 1;
     gy -= 1;
-    int cnt = 0;
 
-    pair<int, int> start;
-    start.first = sx;
-    start.second = sy;
-    q.push(start);
+    q.push(P(sx, sy));
 
     rep(r, 0, R) {
         rep(c, 0, C) {
             cin >> street[r][c];
-            dist[r][c] = 30000;
+            dist[r][c] = INF;
         }
     }
 
     dist[sy][sx] = 0;
 
     while (!q.empty()) {
-        const int x = q.front().first;
-        const int y = q.front().second;
+        P p = q.front();
+        q.pop();
+        if (p.first == gx && p.second == gy) {
+            cout << dist[gy][gx] << endl;
+        }
+
         rep(i, 0, 4) {
-            int dx = x + mx[i];
-            int dy = y + my[i];
-            if (dx >= 0 && dx < C && dy >= 0 && dy < R && dist[dy][dx] == 30000) {
-                if (street[dy][dx] == '.') {
-                    int prev = dist[y][x];
-                    dist[dy][dx] = min(dist[dy][dx], ++prev);
-                    if (dx == gx && dy == gy) {
-                        cout << dist[dy][dx] << endl;
-                        return 0;
-                    }
-                    pair<int, int> temp;
-                    temp.first = dx;
-                    temp.second = dy;
-                    q.push(temp);
-                }
+            int dx = p.first + mx[i];
+            int dy = p.second + my[i];
+
+            if (dx >= 0 && dx < C && dy >= 0 && dy < R && dist[dy][dx] == INF && street[dy][dx] == '.') {
+                q.push(P(dx, dy));
+                dist[dy][dx] = dist[p.second][p.first] + 1;
             }
         }
-        q.pop();
     }
 }
