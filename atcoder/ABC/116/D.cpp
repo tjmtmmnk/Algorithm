@@ -36,19 +36,21 @@ int main(void) {
 
     long long int ans = 0;
     long long int prev = 0;
+    int of = one_flag_set.size();
 
-    for (int i = 0; i < k; ++i) {
+    while (of > 0) {
         long long int o_temp = 0;
-        for (int l = 0; l <= i; ++l) {
-            o_temp += one_flag_set[l];
+        for (int i = 0; (i < of) && (i < one_flag_set.size()); ++i) {
+            o_temp += one_flag_set[i];
         }
-
         long long int z_temp = 0;
-        for (int j = 0; (j < k - i - 1) && (j < zero_flag_set.size()); ++j) {
+        for (int j = 0; j < (k - of) && (j < zero_flag_set.size()); ++j) {
             z_temp += zero_flag_set[j];
         }
-        ans = max((o_temp + z_temp + ((i + 1) * (i + 1))), prev);
+        ans = max((o_temp + z_temp + (of * of)), prev);
         prev = ans;
+        of--;
     }
+
     cout << ans << endl;
 }
