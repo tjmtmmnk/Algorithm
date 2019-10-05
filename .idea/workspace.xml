@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/atcoder/ABC/48/C.cpp" description="}" line="39" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="alg" targetName="exec" />
     </generated>
@@ -11,11 +14,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" readonly="true" id="c425ab71-81ae-4e42-b74e-18113027a61c" name="Default" comment="" />
+    <list default="true" id="c425ab71-81ae-4e42-b74e-18113027a61c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <ignored path="$PROJECT_DIR$/CMakeFiles/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,32 +26,32 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.txt" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/atcoder/ABC/85/D.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arihon_atcoder/ATC/DP/A.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
-              <folding>
-                <element signature="e#212#230#0" expanded="true" />
-              </folding>
+              <caret selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -63,74 +65,86 @@
       <find>alg</find>
       <find>cnt</find>
       <find>slen</find>
+      <find>c7</find>
+      <find>cbf</find>
+      <find>l[100001],</find>
+      <find>x</find>
     </findStrings>
     <replaceStrings>
       <replace>line</replace>
     </replaceStrings>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/atcoder/ABC/132/D.cpp" root0="SKIP_INSPECTION" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/level1.5/722.cpp" />
-        <option value="$PROJECT_DIR$/level2/723.cpp" />
-        <option value="$PROJECT_DIR$/level1/725.cpp" />
-        <option value="$PROJECT_DIR$/algorithm/DFS.cpp" />
-        <option value="$PROJECT_DIR$/algorithm/BFS.cpp" />
-        <option value="$PROJECT_DIR$/challenge_book/section2/partial_sum_problem.cpp" />
-        <option value="$PROJECT_DIR$/challenge_book/section2/lake_counting.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/108/A.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/108/B.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/108/C.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/107/A.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/107/B.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/109/B.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/109/A.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/109/C.cpp" />
-        <option value="$PROJECT_DIR$/yukicode/level1.5/735.cpp" />
-        <option value="$PROJECT_DIR$/yukicode/level1.5/736.cpp" />
-        <option value="$PROJECT_DIR$/yukicode/level1.5/730.cpp" />
-        <option value="$PROJECT_DIR$/yukicode/level2/723.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/111/A.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/111/B.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/111/C.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/112/B.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/112/A.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/112/C.cpp" />
-        <option value="$PROJECT_DIR$/template.txt" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/112/C2.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/ABC/110/C.cpp" />
-        <option value="$PROJECT_DIR$/cmake_install.cmake" />
-        <option value="$PROJECT_DIR$/007-C.cpp" />
-        <option value="$PROJECT_DIR$/arihon_atcoder/ABC/007-C.cpp" />
-        <option value="$PROJECT_DIR$/arihon_atcoder/ABC/054-C.cpp" />
-        <option value="$PROJECT_DIR$/paiza/B/061.cpp" />
-        <option value="$PROJECT_DIR$/atcoder/AGC/030/A.cpp" />
-        <option value="$PROJECT_DIR$/challenge_book/section2/napsack.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/diverta/02/A.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/diverta/02/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/130/A.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/130/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/130/D.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/130/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/131/A.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/131/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/131/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/132/A.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/132/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/132/C.cpp" />
+        <option value="$APPLICATION_CONFIG_DIR$/clion.vmoptions" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/132/D.cpp" />
+        <option value="$PROJECT_DIR$/algorithm/hoge.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/135/A.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/135/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/135/C.cpp" />
+        <option value="$PROJECT_DIR$/yukicode/level1.5/842.cpp" />
+        <option value="$PROJECT_DIR$/algorithm/simple_prime_judge.cpp" />
+        <option value="$PROJECT_DIR$/algorithm/sieve_of_eratosthenes.cpp" />
+        <option value="$PROJECT_DIR$/algorithm/section_sieve.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/26/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/138/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/1/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/122/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/122/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/64/D.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/76/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/137/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/139/A.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/139/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/139/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/139/D.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/AGC/03/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/74/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/133/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/140/A.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/140/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/140/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/140/D.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/142/A.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/142/B.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/142/C.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/142/D.cpp" />
+        <option value="$PROJECT_DIR$/ARC/67/D.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ARC/67/D.cpp" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/48/C.cpp" />
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/arihon_atcoder/ATC/DP/A.cpp" />
+        <option value="$PROJECT_DIR$/template.txt" />
+        <option value="$PROJECT_DIR$/atcoder/ABC/85/D.cpp" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="812" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,13 +155,7 @@
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="alg" type="462c0819:PsiDirectoryNode" />
-              <item name="arihon_atcoder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="alg" type="462c0819:PsiDirectoryNode" />
-              <item name="arihon_atcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="ATC" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
@@ -158,23 +166,41 @@
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="alg" type="462c0819:PsiDirectoryNode" />
               <item name="atcoder" type="462c0819:PsiDirectoryNode" />
-              <item name="AGC" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="alg" type="462c0819:PsiDirectoryNode" />
-              <item name="challenge_book" type="462c0819:PsiDirectoryNode" />
+              <item name="atcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC" type="462c0819:PsiDirectoryNode" />
+              <item name="85" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="alg" type="b2602c69:ProjectViewProjectNode" />
               <item name="alg" type="462c0819:PsiDirectoryNode" />
               <item name="paiza" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="paiza" type="462c0819:PsiDirectoryNode" />
+              <item name="A" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="yukicode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alg" type="462c0819:PsiDirectoryNode" />
+              <item name="yukicode" type="462c0819:PsiDirectoryNode" />
+              <item name="level1.5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,15 +208,22 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="language.cpp" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atcoder/ABC/142" />
+      <recent name="$PROJECT_DIR$/atcoder/ABC/140" />
+      <recent name="$PROJECT_DIR$/atcoder/ABC/139" />
+      <recent name="$PROJECT_DIR$/atcoder/ABC/135" />
+      <recent name="$PROJECT_DIR$/atcoder/ABC/132" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atcoder" />
+      <recent name="$PROJECT_DIR$/atcoder/ABC" />
       <recent name="$PROJECT_DIR$/arihon_atcoder/ATC/001" />
       <recent name="$PROJECT_DIR$/atcoder/AGC" />
       <recent name="$PROJECT_DIR$/arihon_atcoder/ABC" />
-      <recent name="$PROJECT_DIR$/yukicode" />
-      <recent name="$PROJECT_DIR$/challenge_book/section2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -205,9 +238,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.exec">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="alg" RUN_TARGET_NAME="exec" EXPLICIT_BUILD_TARGET_NAME="all" />
-    <configuration name="exec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="alg" TARGET_NAME="exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="alg" RUN_TARGET_NAME="exec" />
+  <component name="RunManager" selected="Application.Build All">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="alg" RUN_TARGET_NAME="exec" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="alg" TARGET_NAME="exec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="alg" RUN_TARGET_NAME="exec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Build All" />
       <item itemvalue="Application.exec" />
@@ -245,417 +286,648 @@
       <workItem from="1545923516234" duration="4260000" />
       <workItem from="1546183877736" duration="1776000" />
       <workItem from="1547295533521" duration="5450000" />
-      <workItem from="1547302357047" duration="5472000" />
+      <workItem from="1547302357047" duration="5561000" />
+      <workItem from="1547985235518" duration="9134000" />
+      <workItem from="1548081105299" duration="5444000" />
+      <workItem from="1548252754431" duration="8228000" />
+      <workItem from="1548298480420" duration="2260000" />
+      <workItem from="1549196483631" duration="4576000" />
+      <workItem from="1550377428684" duration="346000" />
+      <workItem from="1551094277379" duration="4180000" />
+      <workItem from="1551110223734" duration="2766000" />
+      <workItem from="1551614238184" duration="6027000" />
+      <workItem from="1552135051498" duration="7624000" />
+      <workItem from="1554551552401" duration="4881000" />
+      <workItem from="1555157026914" duration="4407000" />
+      <workItem from="1555761077989" duration="5804000" />
+      <workItem from="1556467961664" duration="1212000" />
+      <workItem from="1556970975067" duration="9723000" />
+      <workItem from="1557626203416" duration="4859000" />
+      <workItem from="1557646963302" duration="344000" />
+      <workItem from="1557647930045" duration="96000" />
+      <workItem from="1557824743402" duration="2183000" />
+      <workItem from="1558095462510" duration="491000" />
+      <workItem from="1558266946452" duration="5528000" />
+      <workItem from="1558769752115" duration="653000" />
+      <workItem from="1558784982615" duration="5811000" />
+      <workItem from="1558867387016" duration="43000" />
+      <workItem from="1558867435603" duration="9000" />
+      <workItem from="1558868365212" duration="515000" />
+      <workItem from="1558869157905" duration="5355000" />
+      <workItem from="1559195698773" duration="3913000" />
+      <workItem from="1559226069363" duration="6309000" />
+      <workItem from="1560171613223" duration="2846000" />
+      <workItem from="1560599714355" duration="5893000" />
+      <workItem from="1560686226071" duration="6738000" />
+      <workItem from="1561204452204" duration="5824000" />
+      <workItem from="1561809501214" duration="2037000" />
+      <workItem from="1561861469835" duration="2000" />
+      <workItem from="1563107344858" duration="1799000" />
+      <workItem from="1563110802177" duration="808000" />
+      <workItem from="1563112440492" duration="241000" />
+      <workItem from="1564215567023" duration="6925000" />
+      <workItem from="1564278922603" duration="7849000" />
+      <workItem from="1566304829524" duration="6363000" />
+      <workItem from="1566397631809" duration="1208000" />
+      <workItem from="1566485747968" duration="2134000" />
+      <workItem from="1566575552304" duration="2509000" />
+      <workItem from="1566829761421" duration="6408000" />
+      <workItem from="1566883299259" duration="4731000" />
+      <workItem from="1567000657898" duration="3328000" />
+      <workItem from="1567052510538" duration="1020000" />
+      <workItem from="1567127334899" duration="1461000" />
+      <workItem from="1567339059993" duration="3684000" />
+      <workItem from="1567500907833" duration="37000" />
+      <workItem from="1567500962192" duration="5742000" />
+      <workItem from="1567609838426" duration="3864000" />
+      <workItem from="1567856988649" duration="4773000" />
+      <workItem from="1569219403947" duration="3188000" />
+      <workItem from="1569338338500" duration="686000" />
+      <workItem from="1569339029773" duration="320000" />
+      <workItem from="1569339387159" duration="239000" />
+      <workItem from="1569339661840" duration="522000" />
+      <workItem from="1569343365936" duration="343000" />
+      <workItem from="1569343765932" duration="515000" />
+      <workItem from="1569671946742" duration="6006000" />
+      <workItem from="1569683092778" duration="2017000" />
+      <workItem from="1569811371020" duration="657000" />
+      <workItem from="1570041485241" duration="3821000" />
+      <workItem from="1570277733973" duration="1222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95164000" />
+    <option name="totallyTimeSpent" value="315734000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="819" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15433404" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32686982" />
-      <window_info anchor="bottom" id="CMake" order="7" weight="0.32825485" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33102494" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.18144044" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4293629" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49793673" visible="true" weight="0.17811158" />
+      <window_info id="Structure" order="1" sideWeight="0.5020633" side_tool="true" weight="0.17167382" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32825485" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21401274" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37579617" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287483" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.32611465" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3210191" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32871014" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.31847134" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32825485" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="34" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/atcoder/AGC/33/A.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/paiza/A/30.cpp</url>
+          <line>45</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/atcoder/ABC/140/B.cpp</url>
+          <line>50</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/atcoder/ABC/140/C.cpp</url>
+          <line>42</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/atcoder/ABC/85/D.cpp</url>
+          <line>29</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="CMakeRunConfiguration">
-        <watch expression="dp" language="ObjectiveC" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>dp</expression-string>
+        <expression-string>pos</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>slen</expression-string>
+        <expression-string>hoge</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i</expression-string>
+        <expression-string>mat</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dist</expression-string>
+        <expression-string>s2</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>used</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ans</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>k</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>h</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>N</expression-string>
         <language-id>ObjectiveC</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/131/D.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        <state relative-caret-position="210">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/131/C.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="287">
+          <caret line="64" column="45" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#554#580#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yukicode/level2/723.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/regex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1475" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile" />
-    <entry file="file://$PROJECT_DIR$/yukicode/level1.5/722.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/deque">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="1781" selection-start-line="1781" selection-end-line="1781" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/BFS.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithm/DFS.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yukicode/level1/725.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_book/section2/partial_sum_problem.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_book/section2/lake_counting.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/108/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/108/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/108/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/107/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/107/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/109/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/109/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/109/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yukicode/level1.5/735.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yukicode/level1.5/736.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yukicode/level1.5/730.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/yukicode/level2/723.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/111/A.cpp">
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/131/B.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#554#580#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/111/B.cpp">
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/131/A.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#554#580#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/111/C.cpp">
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/132/D.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/112/C2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/112/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/112/B.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/112/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arihon_atcoder/ABC/085-C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cmake_install.cmake">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="42" column="41" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/ABC/110/C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/ostream">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arihon_atcoder/ABC/007-C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/algorithm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="2645" selection-start-line="2645" selection-end-line="2645" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder/AGC/030/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/paiza/B/061.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arihon_atcoder/ABC/054-C.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/istream">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="699" column="40" selection-start-line="699" selection-start-column="40" selection-end-line="699" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/tclDecls.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="1589" column="56" selection-start-line="1589" selection-start-column="56" selection-end-line="1589" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/challenge_book/section2/napsack.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="93">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arihon_atcoder/ATC/001/A.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/132/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/132/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/132/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/hoge.cpp" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/clion.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/135/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#554#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/135/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="64" column="31" lean-forward="true" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yukicode/level1.5/842.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/ostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="404" column="60" lean-forward="true" selection-start-line="404" selection-start-column="60" selection-end-line="404" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/simple_prime_judge.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/sieve_of_eratosthenes.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithm/section_sieve.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/26/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/121/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/123/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/1/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/138/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#554#580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/122/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/64/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/76/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/135/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/135/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/137/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/139/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#438#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/139/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/139/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#438#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/139/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#438#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/AGC/03/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/74/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="42" column="37" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#438#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/133/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/140/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#438#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/140/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/140/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/140/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/iosfwd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="108" column="39" lean-forward="true" selection-start-line="108" selection-start-column="39" selection-end-line="108" selection-end-column="39" />
+          <folding>
+            <element signature="e#3644#3663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/wchar.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeCache.txt" />
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/142/A.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/142/B.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#438#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/142/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#438#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/142/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#465#499#0" expanded="true" />
+            <element signature="e#820#836#0" expanded="true" />
+            <element signature="e#983#999#0" expanded="true" />
+            <element signature="e#1197#1213#0" expanded="true" />
+            <element signature="e#1289#1325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ARC/67/D.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/48/C.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="8" />
+          <caret selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1/bitset">
+    <entry file="file://$PROJECT_DIR$/atcoder/ABC/85/D.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="667" column="27" selection-start-line="667" selection-start-column="27" selection-end-line="667" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/arihon_atcoder/ATC/DP/A.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+        <state relative-caret-position="222">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           <folding>
-            <element signature="e#212#230#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
